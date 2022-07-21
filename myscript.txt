@@ -1,0 +1,7 @@
+$p = blue
+print $p skies
+print skies of $p
+theme $p
+ls
+whoami
+log
